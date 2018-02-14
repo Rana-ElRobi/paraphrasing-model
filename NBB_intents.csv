@@ -1,5 +1,5 @@
 can you tell me more about the co-creation room?,about
-"If I have comments, what should I do?",about
+If I have comments; what should I do?,about
 how to get a taxi here,about
 how can I give you feedback,about
 how can I apply,about
@@ -7,7 +7,7 @@ how can I send my feedback,about
 I want to visit Dubai attractions please,about
 Do I need to make prior reservation before practicing activities in Dubai?,about
 Do I need to reserve before any activity here in Dubai ?,about
-"It is my first visit to Dubai, where can I go ?",about
+It is my first visit to Dubai; where can I go ?,about
 what are the attractions of dubai?,about
 What are the most popular activities in Dubai?,about
 What do you know about ?,about
@@ -22,7 +22,7 @@ What's the top 5 burger places in Dubai?,about
 What are the restaurants available in the towers?,about
 what are the food at the towers,about
 What should I do if I have a complaint?,about
-"If I have feedback, what should I do?",about
+If I have feedback; what should I do?,about
 What are the rates for Emirates towers hotel room,about
 What is the Youth hub?,about
 What is the edge of government?,about
@@ -56,7 +56,7 @@ where can I practice some interesting activities here in Dubai?,address
 Where can I go for shopping,address
 I want to book a cocreation session,address
 Where can I go for Italian food in Dubai?,address
-"This is my first time in Dubai, where shall I go?",address
+This is my first time in Dubai; where shall I go?,address
 How to go to the shopping mall,address
 How can we reach the towers,address
 How can I go to restaurant,address
@@ -102,7 +102,7 @@ I am using the mabrook service now. How do I know that it's time to collect the 
 when exactly do I get to receive the birth certificate and the other documents?,DocumentsReady
 Can I recieve the issued documents through delivery?,DoorStepDelivery
 Please deliver the issued papers to my house.,DoorStepDelivery
-"You are going to deliver the papers to my location, right?",DoorStepDelivery
+You are going to deliver the papers to my location; right?,DoorStepDelivery
 Will the papers issued through Mabrook be delivered to my doorstep?,DoorStepDelivery
 Will you deliver the service to my door step ?,DoorStepDelivery
 there is nothing i want now,ExitConversation
@@ -148,7 +148,7 @@ How many copies of birth certificate will I recieve?,HowManyCopies
 what are the number of Birth certificate copies that we are going to get?,HowManyCopies
 what are the number of Birth certificate copies that will be issued?,HowManyCopies
 How many birth certificate will be issued?,HowManyCopies
-"Hi, My name is",identification
+Hi; My name is,identification
 What's your name?,identification
 what do you do?,identification
 How can you help me?,identification
@@ -268,7 +268,7 @@ Tell me about this service,WhatIs
 I want to know more about this bundled,WhatIs
 What does this bundle provide?,WhatIs
 I want to know what is the new baby born?,WhatIs
-"I heard about a bundle named New Baby Born, can you tell me more?",WhatIs
+I heard about a bundle named New Baby Born; can you tell me more?,WhatIs
 Why it is required to have smart pass account?,WhatIs
 what is smartpass?,WhatIs
 I want to know what is Mabrouk Ma Yak?,WhatIs
